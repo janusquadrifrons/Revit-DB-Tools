@@ -5,11 +5,11 @@ Tools for data collection, storage, retrieval, processing, and SQL integration
 
 ## Basic Explanation / Usage of Commands :
 
-#### J_ROOMDATAEPORTER
+#### J_ROOMDATAREPORTER
 -Function        : Query room data and insert into the SQLite db showing room names, numbers, areas, etc. \
 -Purpose         : Database building for further autocompletion engine.
 
-![J_ModelChecker](images/J_RoomDataReporter.png)
+![J_RoomDataReporter](images/J_RoomDataReporter.png)
 
 #### J_PARAMETERTRACKER -UNDER CONSRTUCTION-
 -Function        : Records parameter changes in the SQLite database along with timestamps and other relevant information. \
