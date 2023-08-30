@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command J_DB_Tools</Text>
+    <Description>J_DB Tools for Revit 2017</Description>
+    <Assembly>J_DB_Tools.dll</Assembly>
+    <FullClassName>J_DB_Tools.Command</FullClassName>
+    <ClientId>120BEDB0-FEC9-412C-9833-94B1E539E974</ClientId>
+    <VendorId>janusquadrifrons</VendorId>
+    <VendorDescription>https://github.com/janusquadrifrons?tab=repositories</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application J_DB_Tools</Name>
+    <Assembly>J_DB_Tools.dll</Assembly>
+    <FullClassName>J_DB_Tools.App</FullClassName>
+    <ClientId>7E2213C8-EA39-49B7-9C1D-6C0F7A4619DC</ClientId>
+    <VendorId>janusquadrifrons</VendorId>
+    <VendorDescription>https://github.com/janusquadrifrons?tab=repositories</VendorDescription>
+  </AddIn>
+</RevitAddIns>
